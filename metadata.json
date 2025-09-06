@@ -1,0 +1,5 @@
+{
+  "name": "Requirements Decomposer",
+  "description": "An intuitive platform for decomposing requirements with a dual-panel interface. The left panel features an advanced text viewer for highlighting text and converting fragments into typed cards (objects, roles, scenarios). The right panel provides tools to manage these cards in table or map views, with full synchronization between text and cards.",
+  "requestFramePermissions": []
+}
